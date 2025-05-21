@@ -1,2 +1,5 @@
 [README.md](https://github.com/user-attachments/files/20362312/README.md)
 [requirements.txt](https://github.com/user-attachments/files/20362314/requirements.txt)
+![content jpg](https://github.com/user-attachments/assets/87a83277-a054-4d4b-85f5-dbf4909cef91)
+![style jpg](https://github.com/user-attachments/assets/7b34230e-f8d2-4a3d-8cd2-aff06a8c76d8)
+![stylized_panda](https://github.com/user-attachments/assets/f6bd5806-fe52-4e58-83fe-fad17202ebdb)
